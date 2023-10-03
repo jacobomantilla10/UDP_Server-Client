@@ -1,0 +1,64 @@
+Script started on Sun Jul 31 16:11:41 2022
+Welcome to fish, the friendly interactive shell
+Type [32mhelp(B[m for instructions on how to use fish
+[?2004h]0;fish /Users/jacobomantilla/Desktop/networks-project2[30m(B[m[92mjacobomantilla(B[m@(B[mJacobos-Air(B[m [32m~/D/networks-project2(B[m (main)(B[m> [K[57Cscript server-session.txt[A
+[9C[A[48C[38;2;0;95;215mscript[30m(B[m [38;2;0;175;255m[4mserver-session.txt[A
+[9C[30m(B[m[A[48C[38;2;0;95;215mrm typ[30m(B[me[38;2;0;175;255m[4mscript[30m(B[m[J[70C[11D [38;2;0;175;255mtypescript[70C[30m(B[m[13D[38;2;0;95;215mex[30m(B[mi[38;2;0;175;255mt[30m(B[m[K[61C[38;2;0;95;215mit[61C[30m(B[m[38;2;0;95;215mjava UDPClient 0.5 0.8[A
+[6C[30m(B[m[A[55C [38;2;0;175;255m[4mUDPClient[30m(B[m [38;2;0;175;255m0.5[30m(B[m [38;2;0;175;255m0.8[A
+[6C[30m(B[m[A[51C[38;2;0;95;215mscri[30m(B[mp[38;2;0;175;255m[4mt[30m(B[m[J[63C[38;2;0;95;215mpt[63C[30m(B[m[38;2;0;95;215mjava UDPServer[71C[30m(B[m[10D [38;2;0;175;255m[4mUDPServer[71C[30m(B[m
+[30m(B[m[?2004l]0;java UDPServer /Users/jacobomantilla/Desktop/networks-project2[30m(B[m********** Listening... **********
+
+********** Sending Packets **********
+Sending packet: 0
+Sending packet: 1
+Sending packet: 2
+Sending packet: 3
+Sending packet: 4
+Sending packet: 5
+Sending packet: 6
+Sending packet: 7
+Received ACK for 0
+Sending packet: 8
+Received ACK for 1
+Sending packet: 9
+Received ACK for 2
+Sending packet: 10
+Received ACK for 3
+Sending packet: 11
+Received ACK for 5
+Received ACK for 6
+Received ACK for 7
+Received ACK for 10
+Packet 4 got lost... resending
+Packet 4 got lost... resending
+Packet 4 got lost... resending
+Packet 4 got lost... resending
+Received ACK for 4
+Sending packet: 12
+Sending packet: 13
+Sending packet: 14
+Sending packet: 15
+Packet 8 got lost... resending
+Received ACK for 12
+Received ACK for 13
+Packet 8 got lost... resending
+Received ACK for 8
+Packet 9 got lost... resending
+Packet 9 got lost... resending
+Received ACK for 9
+Packet 11 got lost... resending
+Packet 11 got lost... resending
+Packet 11 got lost... resending
+Packet 11 got lost... resending
+Packet 11 got lost... resending
+Received ACK for 11
+Packet 14 got lost... resending
+Received ACK for 14
+Packet 15 got lost... resending
+Received ACK for 15
+********** Finished **********
+
+********** Listening... **********
+^C[2m⏎(B[m                                                                        ⏎ [K[?2004h]0;fish /Users/jacobomantilla/Desktop/networks-project2[30m(B[m[92mjacobomantilla(B[m@(B[mJacobos-Air(B[m [32m~/D/networks-project2(B[m (main)(B[m (B[m[31m[[1m[31mSIGINT(B[m[31m](B[m(B[m> [K[66Ce[67C[38;2;85;85;85mxit[67C[30m(B[m[38;2;255;0;0me[38;2;85;85;85mxit[67C[30m(B[m[38;2;255;0;0mx[38;2;85;85;85mit[68C[30m(B[m[38;2;0;95;215mex[38;2;85;85;85mit[68C[30m(B[m[38;2;0;95;215mi[38;2;85;85;85mt[69C[30m(B[m[38;2;255;0;0mexi[38;2;85;85;85mt[69C[30m(B[m[38;2;255;0;0mt[70C[30m(B[m[38;2;0;95;215mexit[70C[30m(B[m[70C
+[30m(B[m[?2004l]0;exit /Users/jacobomantilla/Desktop/networks-project2[30m(B[m[30m(B[m[?2004l
+Script done on Sun Jul 31 16:12:07 2022
