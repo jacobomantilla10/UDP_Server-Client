@@ -25,8 +25,8 @@ java UDPClient
 
 The results should look like this for the client:
 
-![UDP Server Gif](https://github.com/jacobomantilla10/UDP_Server-Client/UDPClient.gif)
+![UDP Server Gif](https://github.com/jacobomantilla10/UDP_Server-Client/blob/main/UDPClient.gif)
 
 And like this for the server:
 
-![UDP Client Screen Grab](https://github.com/jacobomantilla10/UDP_Server-Client/UDPServerScreenGrab.png)
+![UDP Client Screen Grab](https://github.com/jacobomantilla10/UDP_Server-Client/blob/main/UDPServerScreenGrab.png)
